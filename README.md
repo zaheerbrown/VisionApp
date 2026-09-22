@@ -61,6 +61,12 @@ The tests can be run in Android Studio from:
 
 `app/src/test/` contains the unit tests.
 
+## Prototype Demonstration Video
+
+A demonstration of the VISION Sportswear App prototype can be viewed on YouTube:
+
+https://youtube.com/shorts/ipIUnSOIXgI?feature=share
+
 ## Author
 
 Developed by Zaheer Brown for the OPSC assignment.
